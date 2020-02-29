@@ -1,0 +1,14 @@
+# OS
+## macOS
+.DS_Store
+
+## Windows
+thumbs.db
+*.exe
+
+# pip
+## PyInstaller
+build
+dist
+__pycache__
+*.spec
