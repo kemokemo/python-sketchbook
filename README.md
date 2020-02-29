@@ -21,10 +21,10 @@ Check the available versions.
 pyenv install --list
 ```
 
-Install your version.
+Install it your version wirh options as it is needed by the [PyInstaller](https://pypi.org/project/PyInstaller/) which creates a single executable file.
 
 ```sh
-pyenv install {your_version}
+PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install {your_version}
 ```
 
 Switch to your version.
