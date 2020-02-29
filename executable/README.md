@@ -6,7 +6,7 @@ Like this!
 
 ![Image](media/hello.png)
 
-## when you craete an executable file
+## when you create an executable file
 
 Use [PyInstaller](https://pypi.org/project/PyInstaller/).
 
